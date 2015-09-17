@@ -1,7 +1,10 @@
-[![wercker status](https://app.wercker.com/status/517d98fe7a8da9bf9a6060e7906c0d17/s "wercker status")](https://app.wercker.com/project/bykey/517d98fe7a8da9bf9a6060e7906c0d17)
-[![Coverage Status](https://img.shields.io/coveralls/looplab/fsm.svg)](https://coveralls.io/r/looplab/fsm)
-[![GoDoc](https://godoc.org/github.com/looplab/fsm?status.svg)](https://godoc.org/github.com/looplab/fsm)
+[![wercker status](https://app.wercker.com/status/3d0b756b34015ea4d118528f37ea2218/s/master "wercker status")](https://app.wercker.com/project/bykey/3d0b756b34015ea4d118528f37ea2218)
+[![GoDoc](https://godoc.org/github.com/13k/fsm?status.svg)](https://godoc.org/github.com/13k/fsm)
 
+# Disclaimer
+
+This is a fork from https://github.com/looplab/fsm, keeping everything identical
+except that PRs are merged in.
 
 # FSM for Go
 
