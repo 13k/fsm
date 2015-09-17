@@ -1,7 +1,9 @@
-box: golang
+box: google/golang
 
 build:
   steps:
+    - setup-go-workspace
+
     - wercker/golint
 
     - script:
